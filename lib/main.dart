@@ -22,6 +22,7 @@ class DicePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
       children: <Widget>[
+        Text('First Dice'),
         Expanded(
           flex: 1,
           child: Image(
