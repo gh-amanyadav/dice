@@ -39,6 +39,7 @@ class _DicePageState extends State<DicePage> {
         Center(
           heightFactor: 3,
           child: Row(
+
             children: <Widget>[
               SizedBox(width: 20,),
               Expanded(
